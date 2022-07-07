@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aman Virk
 - 👀 I’m interested in Machine Learning and Natural Language Processing
-- 🌱 I’m currently learning Artificial Intelligence for Trading
 - 💞️ I’m looking to collaborate on ML and NLP projects
 - 📫 You can reach out to me at aman.virk.ds@gmail.com
 
